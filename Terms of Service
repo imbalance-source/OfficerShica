@@ -2,123 +2,141 @@ Terms of Service — Officer Shica
 
 Last Updated: September 9, 2026
 
-1. Introduction
+1. Scope and Acceptance
 
 These Terms of Service ("Terms") govern your access to and use of Officer Shica ("Officer Shica", "the Bot", "the Service", "we", "us", or "our"), a third-party Discord application.
 
-By installing, accessing, or using Officer Shica, you agree to these Terms. If you do not agree with these Terms, you must not use the Service.
+By installing, accessing, or using Officer Shica, you agree to these Terms. If you do not agree, you must not use the Service.
 
-Officer Shica is an independently operated application and is not affiliated with, endorsed by, sponsored by, or officially associated with Discord Inc. or Mudae and its developers.
+These Terms apply exclusively to Officer Shica and do not govern any separate software, applications, services, or tools operated or distributed independently from Officer Shica.
 
-Officer Shica is a standalone Discord bot application. These Terms apply exclusively to Officer Shica and do not govern any separate software, applications, services, or tools operated or distributed independently from Officer Shica.
+Officer Shica is independently operated and is not affiliated with, endorsed by, sponsored by, or officially associated with Discord Inc., Mudae, or the developers of Mudae.
 
 2. Eligibility
 
 You may use Officer Shica only if you are legally permitted to use Discord and the Service in your jurisdiction.
 
-You must also comply with Discord's applicable terms and policies, including the Discord Terms of Service and Discord Community Guidelines.
+Your use of Officer Shica must comply with the Discord Terms of Service and other applicable Discord policies.
 
-If you use Officer Shica on behalf of a Discord server, you represent that you have the necessary permission to install or configure the Bot for that server.
+If you install or configure Officer Shica for a Discord server, you represent that you have the necessary authorization to do so.
 
 3. Description of the Service
 
-Officer Shica provides Discord-based utilities and features intended to complement Discord communities, including communities using Mudae.
+Officer Shica provides Discord-based utilities and functionality, including features designed for Discord communities that use Mudae.
 
-Available functionality may change over time. Features may be added, modified, restricted, temporarily disabled, or removed without prior notice.
+Features may be added, modified, restricted, temporarily disabled, or removed at any time.
 
-We do not guarantee that any particular feature will remain available permanently.
+We do not guarantee that any particular command, feature, integration, or functionality will remain available permanently.
 
 4. Acceptable Use
 
 You agree not to use Officer Shica in violation of applicable law, Discord's applicable terms or policies, or the rights of another person.
 
-You may not use Officer Shica to distribute spam, harass users, interfere with the Service, attempt unauthorized access to systems, exploit vulnerabilities, circumvent access restrictions, or otherwise use the Service for malicious or abusive purposes.
+You may not use Officer Shica to:
 
-Users are responsible for ensuring that their use of Officer Shica complies with Discord's applicable rules and the rules of the Discord servers in which they use the Service.
+Distribute spam or malicious content;
+Harass, threaten, or abuse other users;
+Attempt unauthorized access to Officer Shica or its infrastructure;
+Exploit vulnerabilities or intentionally interfere with the Service;
+Circumvent access controls or restrictions;
+Use the Service for fraudulent or otherwise unlawful activity; or
+Deliberately use Officer Shica in a manner that disrupts Discord servers or other users.
 
+Users and server administrators remain responsible for how Officer Shica is configured and used within their servers.
 
+5. Third-Party Services
 
-5. Discord and Third-Party Services
+Officer Shica operates through Discord and may interact with Mudae or other third-party services.
 
-Officer Shica relies on Discord and may interact with third-party services such as Mudae.
+Those services are operated independently and remain outside our control.
 
-These services are outside our control.
+Changes to Discord, its APIs, permissions, rate limits, policies, or infrastructure may affect Officer Shica's functionality.
 
-Changes, outages, API restrictions, account restrictions, rate limits, policy changes, or other actions taken by Discord, Mudae, or another third party may cause Officer Shica to stop working partially or entirely.
+Likewise, changes made by Mudae or another third-party service may affect features that depend upon that service.
 
-We are not responsible for the availability, functionality, content, decisions, or actions of third-party services.
+We are not responsible for the availability, functionality, decisions, content, or policies of third-party services.
 
-6. User and Server Data
+6. Data and Privacy
 
-Officer Shica may process information necessary to provide its functionality, such as Discord user IDs, server IDs, channel IDs, command interactions, configuration settings, and other information described in the Officer Shica Privacy Policy.
+Officer Shica may process information necessary to provide its functionality, including Discord identifiers, server configuration, commands, interactions, and related technical information.
 
-Discord notes that bots may inherently have access to certain baseline server information, while additional access depends on permissions and application configuration.
+How personal information is collected, processed, stored, retained, and deleted is described in the Officer Shica Privacy Policy.
 
-The collection, processing, retention, and deletion of personal information is described separately in our Privacy Policy.
+By using Officer Shica, you acknowledge that the Service necessarily processes certain information provided through Discord to perform requested functionality.
 
 7. Availability
 
-Officer Shica is provided on an "as available" basis.
+Officer Shica is provided on an "as is" and "as available" basis.
 
-We do not guarantee uninterrupted operation, error-free operation, specific uptime, compatibility with every Discord server, or continued compatibility with Discord, Mudae, or other third-party services.
+We do not guarantee:
 
-Maintenance, updates, technical failures, API changes, rate limits, or circumstances outside our control may interrupt the Service.
+Continuous or uninterrupted availability;
+Specific uptime;
+Error-free operation;
+Compatibility with every Discord server;
+Continued compatibility with Discord or Mudae; or
+Any particular result from using the Service.
 
-8. Accounts, Access and Restrictions
+Maintenance, updates, outages, third-party changes, technical failures, or circumstances outside our reasonable control may interrupt the Service.
 
-We reserve the right to restrict or terminate access to Officer Shica where reasonably necessary, including in cases of abuse, security risks, violations of these Terms, attempts to interfere with the Service, or legal or platform requirements.
+8. Access and Enforcement
 
-Server administrators may remove Officer Shica from their server at any time.
+We reserve the right to restrict, suspend, or terminate access to Officer Shica where reasonably necessary, including for:
+
+Violations of these Terms;
+Abuse of the Service;
+Security threats;
+Attempts to disrupt the Service;
+Legal requirements; or
+Requirements imposed by Discord or another applicable platform.
+
+Server administrators may remove Officer Shica from their Discord server at any time.
 
 9. Intellectual Property
 
-Officer Shica's original software, branding, graphics, documentation, and other original materials remain the property of their respective owner(s), except where otherwise stated.
+Officer Shica's original software, branding, documentation, graphics, and other original materials remain the property of their respective owner(s), except where otherwise stated.
 
-Discord, the Discord name and associated trademarks belong to their respective owners.
+Discord, Mudae, third-party characters, artwork, names, trademarks, and other third-party intellectual property remain the property of their respective owners and licensors.
 
-Mudae, its artwork, characters, game concepts, names, assets and other intellectual property belong to their respective owners and licensors.
+Use of third-party names or references within Officer Shica does not imply affiliation, sponsorship, or endorsement.
 
-Nothing in these Terms transfers ownership of third-party intellectual property to Officer Shica or its users.
+10. No Guarantee of Mudae Results
 
-10. Disclaimer of Warranties
+Where Officer Shica provides Mudae-related functionality, such functionality is provided as a utility only.
 
-Officer Shica is provided "as is" and "as available", to the extent permitted by applicable law.
+Officer Shica does not guarantee any particular Mudae result, including rolls, characters, claims, wishes, kakera, keys, rewards, rankings, availability, or other in-game outcomes.
 
-We make no guarantee that the Service will always function correctly or remain compatible with Discord, Mudae, or any other third-party service.
-
-No particular game result, roll, claim, reward, currency amount, availability, response time, or other outcome is guaranteed.
+Officer Shica is not responsible for changes made to Mudae that affect such functionality.
 
 11. Limitation of Liability
 
-To the maximum extent permitted by applicable law, the operator of Officer Shica shall not be liable for indirect, incidental, consequential, or special damages resulting from use of or inability to use the Service.
+To the maximum extent permitted by applicable law, Officer Shica and its operator shall not be liable for indirect, incidental, consequential, or special damages resulting from the use of or inability to use the Service.
 
-This includes, where legally permissible, losses resulting from service interruptions, lost configurations or data, Discord enforcement actions, third-party service changes, missed game actions or rewards, or other circumstances outside our reasonable control.
+This may include losses resulting from service interruptions, data or configuration loss, third-party outages, Discord or Mudae changes, or other circumstances outside our reasonable control.
 
 Nothing in these Terms excludes or limits liability where such exclusion or limitation is prohibited by applicable law.
 
 12. Changes to the Service
 
-Officer Shica may be updated at any time.
+We may modify, update, restrict, or discontinue all or part of Officer Shica at any time.
 
-We may change commands, functionality, limits, infrastructure, supported integrations, or other aspects of the Service.
-
-Significant changes may be communicated through Officer Shica's official Discord server, website, or another appropriate communication channel.
+Where appropriate, significant changes may be communicated through the Service, its support server, or another official communication channel.
 
 13. Changes to These Terms
 
 These Terms may be updated when necessary to reflect changes to Officer Shica, applicable laws, Discord requirements, or third-party integrations.
 
-The date at the top of this document indicates the latest revision.
+The date displayed at the beginning of these Terms indicates the most recent revision.
 
-Continued use of Officer Shica after updated Terms become effective constitutes acceptance of those Terms to the extent permitted by applicable law.
+Where required by applicable law, users will be appropriately informed of material changes.
 
 14. Termination
 
 You may stop using Officer Shica at any time.
 
-Server administrators can terminate their server's use of the Service by removing the Bot.
+Server administrators may terminate use of the Service for their server by removing Officer Shica.
 
-We may suspend or terminate the Service or individual access where necessary for security, legal compliance, platform compliance, abuse prevention, or enforcement of these Terms.
+We may suspend or terminate access where reasonably necessary for security, abuse prevention, legal compliance, platform compliance, or enforcement of these Terms.
 
 15. Contact
 
